@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: MY_SHORT_BIO
+bio: short_bio
 
 # interests:
 # - MY_INTEREST_1
@@ -27,7 +27,7 @@ education:
   courses:
   - course: BSc in Computer Science
     institution: Turing Class, School of EECS, Peking University
-    year: 2021 (expected)
+    year: 2017 - 2021 (expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,7 +39,7 @@ social:
   link: 'mailto:bfshi@pku.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/bfshi
@@ -59,4 +59,11 @@ user_groups:
 - Visitors
 ---
 
-BIO Here
+I am currently a third-year undergraduate at Turing Class<sup>*</sup>, Peking University, advised by Prof. [Yadong Mu](http://www.muyadong.com/index.html). I also enjoy working with Dr. [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ&hl=en) and Dr. [Jingdong Wang](https://jingdongwang2017.github.io/) at Microsoft Research Asia.
+
+My primary interests lie in how machine can learn *useful information* for downstream tasks from visual signals (e.g. representation learning), how to learn with *minimum labels* (e.g. few-shot learning, domain adaptation, weak supervision) and how to make *robust* decisions under different environments.
+
+
+
+<span style="font-size:0.7em;"><sup>*</sup> An elite class founded by [Prof. John E. Hopcroft](http://www.cs.cornell.edu/jeh/)</span>
+
