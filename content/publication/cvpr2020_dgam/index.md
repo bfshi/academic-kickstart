@@ -19,7 +19,23 @@ publication_types: ["1"]
 publication: "IEEE Conference on Computer Vision and Pattern Recognition"
 publication_short: "*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR 2020**)"
 
-abstract: "abstract"
+abstract: "Weakly-supervised temporal action localization is a problem of learning an
+action localization model with only video-level action labeling available. The
+general framework largely relies on the classification activation, which
+employs an attention model to identify the action-related frames and then
+categorizes them into different classes. Such method results in the
+action-context confusion issue: context frames near action clips tend to be
+recognized as action frames themselves, since they are closely related to the
+specific classes. To solve the problem, in this paper we propose to model the
+class-agnostic frame-wise probability conditioned on the frame attention using
+conditional Variational Auto-Encoder (VAE). With the observation that the
+context exhibits notable difference from the action at representation level, a
+probabilistic model, i.e., conditional VAE, is learned to model the likelihood
+of each frame given the attention. By maximizing the conditional probability
+with respect to the attention, the action and non-action frames are well
+separated. Experiments on THUMOS14 and ActivityNet1.2 demonstrate advantage of
+our method and effectiveness in handling action-context confusion problem. Code
+is now available on GitHub."
 
 # Summary. An optional shortened abstract.
 summary: "summary"
@@ -36,8 +52,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: http://arxiv.org/abs/2003.12424
+url_code: https://github.com/bfshi/DGAM-Weakly-Supervised-Action-Localization
 url_dataset:
 url_poster:
 url_project:
