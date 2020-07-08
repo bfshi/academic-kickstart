@@ -59,9 +59,11 @@ user_groups:
 - Visitors
 ---
 
-I am currently a third-year undergraduate at Turing Class<sup>*</sup>, Peking University, advised by Prof. [Yadong Mu](http://www.muyadong.com/index.html). I also enjoy working with Dr. [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ&hl=en) and Dr. [Jingdong Wang](https://jingdongwang2017.github.io/) at Microsoft Research Asia.
+I am currently a third-year undergraduate at Turing Class<sup>*</sup>, Peking University, advised by Prof. [Yadong Mu](http://www.muyadong.com/index.html). I also enjoy working with Dr. [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ&hl=en) and Dr. [Jingdong Wang](https://jingdongwang2017.github.io/) at Microsoft Research Asia. Currently, I'm visiting UC Berkeley working with Prof. [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and Dr. [Huijuan Xu](https://cs-people.bu.edu/hxu/).
 
-My primary interests lie in how machine can learn *useful information* for downstream tasks from visual signals (e.g. representation learning), how to learn with *minimum labels* (e.g. few-shot learning, domain adaptation, weak supervision) and how to make *robust* decisions under different environments.
+My primary interests lie in how machine can learn *useful information* for downstream tasks from visual signals (*e.g.* representation learning), how to learn with *minimum labels* (*e.g.* weak supervision, domain adaptation, few-shot learning) and how to make *robust* decisions across environments by adopting different tools and perspectives (*e.g.* causal inference, model bias).
+
+**I will apply for a PhD position starting from 2021fall. Please don't hesitate to contact me if you're interested!**
 
 
 
