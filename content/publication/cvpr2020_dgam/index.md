@@ -19,26 +19,11 @@ publication_types: ["1"]
 publication: "IEEE Conference on Computer Vision and Pattern Recognition"
 publication_short: "*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR 2020**)"
 
-abstract: "Weakly-supervised temporal action localization is a problem of learning an
-action localization model with only video-level action labeling available. The
-general framework largely relies on the classification activation, which
-employs an attention model to identify the action-related frames and then
-categorizes them into different classes. Such method results in the
-action-context confusion issue: context frames near action clips tend to be
-recognized as action frames themselves, since they are closely related to the
-specific classes. To solve the problem, in this paper we propose to model the
-class-agnostic frame-wise probability conditioned on the frame attention using
-conditional Variational Auto-Encoder (VAE). With the observation that the
-context exhibits notable difference from the action at representation level, a
-probabilistic model, i.e., conditional VAE, is learned to model the likelihood
-of each frame given the attention. By maximizing the conditional probability
-with respect to the attention, the action and non-action frames are well
-separated. Experiments on THUMOS14 and ActivityNet1.2 demonstrate advantage of
-our method and effectiveness in handling action-context confusion problem. Code
-is now available on GitHub."
+abstract: "Regular weakly-supervised action localization methods mostly follows the \"localizing by classifying\" paradigm, which results in the **action-context confusion** issue: context frames near action clips tend to be recognized as action frames themselves. With the observation that the context exhibits notable difference from the action at **representation level**, a probabilistic model is learned to model the **class-agnostic likelihood**
+of each frame given the attention. By maximizing the conditional probability, we obtain the **MAP estimation** of the attention."
 
 # Summary. An optional shortened abstract.
-summary: "summary"
+summary: ""
 
 tags: []
 categories: []
@@ -66,7 +51,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Associated Projects (optional).

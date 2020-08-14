@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "International Conference on Machine Learning"
 publication_short: "*International Conference on Machine Learning* (**ICML 2020**)"
 
-abstract: ""
+abstract: "In this work, we attempt at improving various kinds of robustness universally by alleviating CNN's **texture bias**. With inspiration from the **human visual system**, we propose to discriminate texture from shape based on **local self-information** in an image, and adopt a Dropout-like algorithm to decorrelate the model output from the local texture. We observe enhanced robustness under various scenarios (**domain generalization, few-shot classification, image corruption, and adversarial perturbation**)."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: https://arxiv.org/abs/2008.04254
+url_code: https://github.com/bfshi/InfoDrop
 url_dataset:
 url_poster:
 url_project:
@@ -50,7 +50,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Associated Projects (optional).

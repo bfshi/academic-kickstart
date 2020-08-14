@@ -3,11 +3,11 @@
 
 title: "Auxiliary Task Reweighting for Minimum-data Learning"
 authors: ["**Baifeng Shi**", Judy Hoffman, Kate Saenko, Trevor Darrell, Huijuan Xu]
-date: 2020-06-11T12:41:37+08:00
+date: 2020-08-11T12:41:37+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-06-11T12:41:37+08:00
+publishDate: 2020-08-11T12:41:37+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
