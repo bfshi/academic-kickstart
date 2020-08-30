@@ -16,8 +16,8 @@ publishDate: 2020-08-11T12:41:37+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In submission"
-publication_short: "*In submission*"
+publication: "In submission (**NeurIPS 2020**)"
+publication_short: "*In submission* (**NeurIPS 2020**)"
 
 abstract: ""
 
