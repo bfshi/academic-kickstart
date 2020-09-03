@@ -45,9 +45,9 @@ social:
   link: https://github.com/bfshi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -61,7 +61,7 @@ user_groups:
 
 I am currently a third-year undergraduate at Turing Class<sup>*</sup>, Peking University, advised by Prof. [Yadong Mu](http://www.muyadong.com/index.html). I also enjoy working with Dr. [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ&hl=en) and Dr. [Jingdong Wang](https://jingdongwang2017.github.io/) at Microsoft Research Asia. Currently, I'm visiting UC Berkeley working with Prof. [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and Dr. [Huijuan Xu](https://cs-people.bu.edu/hxu/).
 
-My primary interests lie in how the process of learning and understanding visual signals can be expressed by *simple rules* (ideally drawing upon inspiration from information theory, theoretical neuroscience and physics), how to learn with *minimum labels* (*e.g.* weak/self supervision, domain generalization) and how to make *robust* decisions across environments by adopting different tools and perspectives (*e.g.* model bias, causal inference).
+My primary interests lie in how the process of learning and understanding visual signals can be expressed by *simple rules* (ideally drawing upon inspiration from information theory, theoretical neuroscience and physics), with the goal of learning with *minimum labels* (*e.g.* weak/self supervision) and making *robust* decisions across environments (*e.g.* domain generalization, model debiasing) like a human being.
 
 **I will apply for a PhD position starting from 2021fall. Please don't hesitate to contact me if you're interested!**
 
