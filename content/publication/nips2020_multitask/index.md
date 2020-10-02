@@ -16,8 +16,8 @@ publishDate: 2020-08-11T12:41:37+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In submission (**NeurIPS 2020**)"
-publication_short: "*In submission* (**NeurIPS 2020**)"
+publication: "Conference on Neural Information Processing Systems (**NeurIPS 2020**)"
+publication_short: "*Conference on Neural Information Processing Systems* (**NeurIPS 2020**)"
 
 abstract: "Auxiliary tasks are widely used to address the lack of data by providing additional supervision in **semi/self-supervised learning, transfer learning, reinforcement learning**, *etc*. Assigning the **importance weights** for different auxiliary tasks
 remains a crucial, and largely understudied, research question. In this work, we formulate the problem as minimizing the **information required** to learn the main task. With the key insight that *information required for inference can be reduced by a good prior*, we propose an algorithm to automatically reweight auxiliary tasks so that the **surrogate prior** given by the weighted likelihood of auxiliary tasks is optimized. We further reduce the optimization problem into **minimizing the $l^2$ distance** between main/auxliary task gradients by adopting tools including **Langevin dynamics, Fisher divergence**, *etc*. Our algorithm finds the optimal weights and minimizes the required data under various settings, as supported by both **theoretical guarantees and experimental observations**."
