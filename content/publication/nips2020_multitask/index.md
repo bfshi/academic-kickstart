@@ -37,14 +37,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: files/NeurIPS2020_MultiTask.pdf
-url_code:
+url_pdf: https://arxiv.org/abs/2010.08244
+url_code: https://github.com/bfshi/ARML_Auxiliary_Task_Reweighting
 url_dataset:
 url_poster:
-url_project:
-url_slides:
+url_project: https://sites.google.com/view/auxiliary-task-reweighting/home
+url_slides: https://drive.google.com/file/d/1UiNHBztUVJbhvDJTmFww7v4ZPSdXD4DM/view
 url_source:
-url_video:
+url_video: https://www.youtube.com/watch?v=B2i6z6HefGw
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

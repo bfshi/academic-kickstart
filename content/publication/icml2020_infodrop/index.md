@@ -30,11 +30,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: ZhiHu
+  url: https://zhuanlan.zhihu.com/p/197929813
+  icon_pack: fab
+  icon: 
 
 url_pdf: https://arxiv.org/abs/2008.04254
 url_code: https://github.com/bfshi/InfoDrop
@@ -43,7 +43,8 @@ url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: https://icml.cc/virtual/2020/poster/5839
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
