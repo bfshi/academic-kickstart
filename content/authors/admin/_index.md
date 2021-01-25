@@ -48,6 +48,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+- icon: weixin
+  icon_pack: fab
+  link: files/wechat.jpg
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -59,11 +62,11 @@ user_groups:
 - Visitors
 ---
 
-I am currently a senior undergraduate at Turing Class<sup>*</sup>, Peking University, advised by Prof. [Yadong Mu](http://www.muyadong.com/index.html). I also enjoy working with Dr. [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ&hl=en) and Dr. [Jingdong Wang](https://jingdongwang2017.github.io/) at Microsoft Research Asia. Currently, I'm visiting UC Berkeley working with Prof. [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and Dr. [Huijuan Xu](https://cs-people.bu.edu/hxu/), meanwhile collaborating closely with [Prof. Kate Saenko](http://ai.bu.edu/ksaenko.html) at Boston University and [Prof. Judy Hoffman](https://www.cc.gatech.edu/~judy/) at Georgia Tech.
+I am currently a senior undergraduate at Turing Class<sup>*</sup>, Peking University, advised by Prof. [Yadong Mu](http://www.muyadong.com/index.html). I also enjoy working with Dr. [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ&hl=en) and Dr. [Jingdong Wang](https://jingdongwang2017.github.io/) at Microsoft Research Asia. I had a nine-month remote visit at UC Berkeley working with Prof. [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and Dr. [Huijuan Xu](https://cs-people.bu.edu/hxu/), meanwhile collaborating closely with [Prof. Kate Saenko](http://ai.bu.edu/ksaenko.html) at Boston University and [Prof. Judy Hoffman](https://www.cc.gatech.edu/~judy/) at Georgia Tech.
 
 My primary interests lie in how to formulate the process of learning and understanding visual signals by *simple rules* (ideally drawing upon inspiration from information theory, theoretical neuroscience and physics), with the goal of learning with *minimum labels* (*e.g.* weak/self supervision) and making *robust* decisions across environments and tasks (*e.g.* domain generalization, multi-task, model debiasing) like a human being.
 
-**I will apply for PhD programs starting from 2021fall. Please don't hesitate to contact me if you're interested!**
+You can find me through [email](mailto:bfshi@pku.edu.cn) or [wechat](https://bfshi.github.io/files/wechat.jpg) :D
 
 
 
