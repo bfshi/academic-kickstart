@@ -62,13 +62,9 @@ user_groups:
 - Visitors
 ---
 
-I am currently a senior undergraduate at Turing Class<sup>*</sup>, Peking University, advised by Prof. [Yadong Mu](http://www.muyadong.com/index.html). I also enjoy working with Dr. [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ&hl=en) and Dr. [Jingdong Wang](https://jingdongwang2017.github.io/) at Microsoft Research Asia. I had a nine-month remote visit at UC Berkeley working with Prof. [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and Dr. [Huijuan Xu](https://cs-people.bu.edu/hxu/), meanwhile collaborating closely with [Prof. Kate Saenko](http://ai.bu.edu/ksaenko.html) at Boston University and [Prof. Judy Hoffman](https://www.cc.gatech.edu/~judy/) at Georgia Tech.
+I am an incoming PhD student at UC Berkeley. I've had the fortune to work with Prof. [Yadong Mu](http://www.muyadong.com/index.html) at Peking University, and with Dr. [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ&hl=en) and Dr. [Jingdong Wang](https://jingdongwang2017.github.io/) at Microsoft Research Asia. I also had a nine-month remote visit at UC Berkeley working with Prof. [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and Dr. [Huijuan Xu](https://cs-people.bu.edu/hxu/), meanwhile collaborating closely with [Prof. Kate Saenko](http://ai.bu.edu/ksaenko.html) at Boston University and [Prof. Judy Hoffman](https://www.cc.gatech.edu/~judy/) at Georgia Tech.
 
-My primary interests lie in how to formulate the process of learning and understanding visual signals by *simple rules* (ideally drawing upon inspiration from information theory, theoretical neuroscience and physics), with the goal of learning with *minimum labels* (*e.g.* weak/self supervision) and making *robust* decisions across environments and tasks (*e.g.* domain generalization, multi-task, model debiasing) like a human being.
+My primary interests lie in how to formulate the process of learning and understanding visual signals by *simple rules*, with the goal of learning with *minimum labels* (*e.g.* weak/self supervision) and making *robust* decisions across environments and tasks (*e.g.* domain generalization, multi-task, model debiasing) like a human being.
 
 You can find me through [email](mailto:bfshi@pku.edu.cn) or [wechat](https://bfshi.github.io/files/wechat.jpg) :D
-
-
-
-<span style="font-size:0.7em;"><sup>*</sup> An elite class founded by [Prof. John E. Hopcroft](http://www.cs.cornell.edu/jeh/)</span>
 
